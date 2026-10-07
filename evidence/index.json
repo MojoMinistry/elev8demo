@@ -1,0 +1,75 @@
+[
+  {
+    "url": "https://www.lacatc.com/about/",
+    "evidence_ids": [
+      "E3"
+    ],
+    "fetched_at": "2026-10-07T13:16:45.229868+00:00",
+    "status": 200,
+    "sha256": "127ad164d40143fecb2454ed2c2af95813d4f4d40df391bedb7cc837af5972e1",
+    "snapshot": "raw/0ea07d63ef19fba9.html"
+  },
+  {
+    "url": "https://www.lacatc.com/admissions/",
+    "evidence_ids": [
+      "E2",
+      "E5-admissions"
+    ],
+    "fetched_at": "2026-10-07T13:17:37.354980+00:00",
+    "status": 200,
+    "sha256": "0e69e2d172f3ae0e25ecd39befd86970ee05b2fa37489381e5dae2a87971cda9",
+    "snapshot": "raw/5e812b3c209624b5.html"
+  },
+  {
+    "url": "https://www.lacatc.com/blog/what-does-medical-detox-feel-like/",
+    "evidence_ids": [
+      "E4-guide"
+    ],
+    "fetched_at": "2026-10-07T13:17:59.430748+00:00",
+    "status": 200,
+    "sha256": "416675e709e02366c1c22a49c888901315ac5ec0b6d39c4346dfa092999622cd",
+    "snapshot": "raw/4035436fa493410f.html"
+  },
+  {
+    "url": "https://www.lacatc.com/for-families/",
+    "evidence_ids": [
+      "E5-families"
+    ],
+    "fetched_at": "2026-10-07T13:20:02.978154+00:00",
+    "status": 200,
+    "sha256": "6ba7bd39c9bddc48f8f495d10117756b982c842b34d7eafd460e7ee9698e3d97",
+    "snapshot": "raw/b826188a0f9e4139.html"
+  },
+  {
+    "url": "https://www.lacatc.com/insurance/medi-cal/",
+    "evidence_ids": [
+      "E1-meta",
+      "E1-qualifier",
+      "E1-card"
+    ],
+    "fetched_at": "2026-10-07T13:18:24.918426+00:00",
+    "status": 200,
+    "sha256": "13f784d5b691225bd79643e713539a03aac4081deacd91195fd01e7a0389bd6c",
+    "snapshot": "raw/2f974be4d6d1d52a.html"
+  },
+  {
+    "url": "https://www.lacatc.com/programs/medical-detox/",
+    "evidence_ids": [
+      "E4-program"
+    ],
+    "fetched_at": "2026-10-07T13:19:05.577440+00:00",
+    "status": 200,
+    "sha256": "1c9ac0bf1bccbcdb32ae94827688bd36b6fe5387a3eaefb42831fb792f546d9d",
+    "snapshot": "raw/04f998a07e009f52.html"
+  },
+  {
+    "url": "https://www.lacatc.com/programs/residential-treatment/",
+    "evidence_ids": [
+      "E5-residential"
+    ],
+    "fetched_at": "2026-10-07T13:19:15.479176+00:00",
+    "status": 200,
+    "sha256": "e4fec190d3f8f8c2ed78db13cf26db6e96b8511e051378fe933a8cebd2d7767a",
+    "snapshot": "raw/46a053751d2a2b54.html"
+  }
+]

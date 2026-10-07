@@ -1,0 +1,24 @@
+{
+  "observation_date": "2026-10-07",
+  "method": "Read-only live cloud-browser DOM inspection during the assessment",
+  "actions": {"form_fields_filled": 0, "forms_submitted": 0, "calls_placed": 0, "chat_messages_sent": 0},
+  "admissions": {
+    "url": "https://www.lacatc.com/admissions/",
+    "forms_observed": 2,
+    "required_fields_per_form": ["firstName", "lastName", "phone", "email", "who", "consent checkbox"],
+    "tel_anchor_count": 4,
+    "tel_href": "tel:8447141200",
+    "rendered_phone_pattern": "[0-9\\(\\)\\+\\.\\-\\s]{7,}",
+    "source_phone_pattern_had_extra_escaping": true,
+    "conclusion": "Phone/email are required in source and rendered DOM. Call links exist. A source-only suspicion of broken phone validation was withheld after the rendered attribute differed. Submission success was not tested."
+  },
+  "about": {
+    "url": "https://www.lacatc.com/about/",
+    "reviewed": ["main content", "licensing FAQ", "outbound links", "credential badges"],
+    "facility_specific_regulator_record_link_observed": false,
+    "license_identifier_observed_on_page": false,
+    "named_clinical_leadership_observed_on_page": false,
+    "conclusion": "Website verification path asks visitors to obtain details by phone. Actual licensure, accreditation and staff qualifications were not determined."
+  },
+  "limits": "Targeted inspection of Admissions and About only. No mobile emulation, full-site rendered crawl, form validation/delivery test or call-connection test."
+}

@@ -1,0 +1,12 @@
+[
+  {"id":"E1-meta","kind":"contains","url":"https://www.lacatc.com/insurance/medi-cal/","field":"descriptions","value":"Detox, residential, and outpatient care covered"},
+  {"id":"E1-qualifier","kind":"contains","url":"https://www.lacatc.com/insurance/medi-cal/","field":"main_text","value":"network status"},
+  {"id":"E1-card","kind":"contains","url":"https://www.lacatc.com/insurance/medi-cal/","field":"main_text","value":"fully covered"},
+  {"id":"E2","kind":"required_contact_fields","url":"https://www.lacatc.com/admissions/"},
+  {"id":"E3","kind":"contains","url":"https://www.lacatc.com/about/","field":"main_text","value":"license details on request during your first call"},
+  {"id":"E4-program","kind":"contains","url":"https://www.lacatc.com/programs/medical-detox/","field":"main_text","value":"Will detox be painful? − No,"},
+  {"id":"E4-guide","kind":"contains","url":"https://www.lacatc.com/blog/what-does-medical-detox-feel-like/","field":"main_text","value":"Detox can be uncomfortable, and symptom severity varies."},
+  {"id":"E5-admissions","kind":"no_age_policy_phrase","url":"https://www.lacatc.com/admissions/","pattern":"\\b(minimum age|ages? (?:18|21)|(?:18|21) (?:years|and older|and over)|adults?[- ]only|adolescents?|teenagers?|pediatric)\\b"},
+  {"id":"E5-residential","kind":"no_age_policy_phrase","url":"https://www.lacatc.com/programs/residential-treatment/","pattern":"\\b(minimum age|ages? (?:18|21)|(?:18|21) (?:years|and older|and over)|adults?[- ]only|adolescents?|teenagers?|pediatric)\\b"},
+  {"id":"E5-families","kind":"no_age_policy_phrase","url":"https://www.lacatc.com/for-families/","pattern":"\\b(minimum age|ages? (?:18|21)|(?:18|21) (?:years|and older|and over)|adults?[- ]only|adolescents?|teenagers?|pediatric)\\b"}
+]

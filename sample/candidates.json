@@ -1,0 +1,308 @@
+[
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/about/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/alcohol/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/cocaine/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/fentanyl/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/heroin/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/methamphetamine/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/opioids/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/addiction-treatment/prescription-drugs/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/admissions/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/admissions/what-to-expect/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/blog/how-to-help-someone-who-refuses-treatment/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/blog/what-does-medical-detox-feel-like/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/aetna/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/blue-cross-blue-shield/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/cigna/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/medi-cal/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/tricare/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/united-healthcare/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/insurance/va-benefits/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/programs/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/programs/dual-diagnosis-treatment/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/programs/intensive-outpatient-program/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/programs/medical-detox/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/programs/partial-hospitalization-program/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/programs/residential-treatment/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/programs/veteran-addiction-treatment/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/treatments/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/treatments/cognitive-behavioral-therapy/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/treatments/family-therapy/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/treatments/medication-assisted-treatment/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "callback_requires_email_and_phone",
+    "url": "https://www.lacatc.com/treatments/trauma-informed-therapy/",
+    "evidence": "HTML requires both email and telephone",
+    "confidence": "medium",
+    "admissions_relevance": 3,
+    "consequence": "Test whether collecting both reduces completed inquiries.",
+    "status": "candidate_for_review"
+  }
+]
