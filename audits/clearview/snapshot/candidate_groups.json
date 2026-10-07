@@ -1,0 +1,50 @@
+[
+  {
+    "code": "http_error",
+    "urls": [
+      "https://clearviewtreatment.com/about-us/",
+      "https://clearviewtreatment.com/about-us/alum-program/",
+      "https://clearviewtreatment.com/about-us/careers/",
+      "https://clearviewtreatment.com/about-us/our-team/",
+      "https://clearviewtreatment.com/about-us/testimonials/",
+      "https://clearviewtreatment.com/admissions/",
+      "https://clearviewtreatment.com/lp/dual-diagnosis-treatment/",
+      "https://clearviewtreatment.com/lp/womens-treatment-center/",
+      "https://clearviewtreatment.com/quick-guide-questions-to-ask-when-seeking-mental-health-and-addiction-treatment-2024/",
+      "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+      "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+      "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+      "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+      "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+      "https://clearviewtreatment.com/accessibility-notice/",
+      "https://clearviewtreatment.com/hipaa-policy/",
+      "https://clearviewtreatment.com/lp/dual-diagnosis-care/",
+      "https://clearviewtreatment.com/lp/gender-inclusive-mental-health/",
+      "https://clearviewtreatment.com/lp/womens-mental-health/",
+      "https://clearviewtreatment.com/outcomes/",
+      "https://clearviewtreatment.com/privacy-policy/",
+      "https://clearviewtreatment.com/resources/",
+      "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+      "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+      "https://clearviewtreatment.com/therapies/",
+      "https://clearviewtreatment.com/therapies/cognitive-behavioral-therapy/",
+      "https://clearviewtreatment.com/what-we-treat-2/",
+      "https://clearviewtreatment.com/what-we-treat-2/depression/",
+      "https://clearviewtreatment.com/what-we-treat-2/self-harm/",
+      "https://clearviewtreatment.com/what-we-treat/",
+      "https://clearviewtreatment.com/what-we-treat/anxiety-disorder/",
+      "https://clearviewtreatment.com/what-we-treat/borderline-personality-disorder/",
+      "https://clearviewtreatment.com/what-we-treat/dissociative-disorders/"
+    ],
+    "max_admissions_relevance": 3,
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "nonself_canonical",
+    "urls": [
+      "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/"
+    ],
+    "max_admissions_relevance": 1,
+    "status": "candidate_for_review"
+  }
+]

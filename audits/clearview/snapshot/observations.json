@@ -1,0 +1,4620 @@
+{
+  "schema_version": 1,
+  "tool": "Elev8PublicAudit/0.1 (+read-only SEO assessment)",
+  "started_at": "2026-10-07T15:00:17.214996+00:00",
+  "finished_at": "2026-10-07T15:03:46.102066+00:00",
+  "target": "https://clearviewtreatment.com/",
+  "scope": {
+    "max_pages": 45,
+    "delay_seconds": 1.0,
+    "mode": "raw_html",
+    "forms_submitted": 0,
+    "pending_unique_urls": 0
+  },
+  "robots": {
+    "url": "https://clearviewtreatment.com/robots.txt",
+    "kind": "robots",
+    "status": 200,
+    "headers": {
+      "date": "Wed, 07 Oct 2026 15:00:21 GMT",
+      "content-type": "text/plain; charset=utf-8",
+      "last-modified": "Wed, 07 Oct 2026 11:42:30 GMT",
+      "x-robots-tag": "noindex, follow"
+    },
+    "fetched_at": "2026-10-07T15:00:17.214996+00:00",
+    "elapsed_ms": 4730,
+    "bytes": 196,
+    "sha256": "757558bd3faa11e22131e169d542d564ed81f6dcf06f1d97b7c156f2fceedbc7",
+    "redirects": [],
+    "snapshot": "raw/2f02b444a9cda9d0.txt"
+  },
+  "sitemaps": [
+    {
+      "url": "https://clearviewtreatment.com/sitemap_index.xml",
+      "kind": "sitemap",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:26 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:22.945305+00:00",
+      "elapsed_ms": 3316,
+      "bytes": 1084,
+      "sha256": "28e79a51ccfe77328ae3044856e6744da8280b5dade2e08424e8bc7f8d8b1d3f",
+      "redirects": [],
+      "snapshot": "raw/43fcf967e2430191.txt"
+    }
+  ],
+  "sitemap_urls": [],
+  "pages": [
+    {
+      "url": "https://clearviewtreatment.com/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:30 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "325142",
+        "last-modified": "Wed, 07 Oct 2026 14:51:59 GMT"
+      },
+      "fetched_at": "2026-10-07T15:00:27.261592+00:00",
+      "elapsed_ms": 3517,
+      "bytes": 325142,
+      "sha256": "76f1a616a6d0fc7ddc7a38a5e3934202aafe00acfe796d8ffedb9c21acd96161",
+      "redirects": [],
+      "snapshot": "raw/c6d1465cca56da82.html",
+      "requested_url": "https://clearviewtreatment.com/",
+      "titles": [
+        "Residential Mental Health Treatment | Clearview Treatment Programs"
+      ],
+      "h1": [
+        "Residential Mental Health + Dual Diagnosis Treatment in California"
+      ],
+      "canonicals": [
+        "https://clearviewtreatment.com/"
+      ],
+      "meta_robots": [
+        {
+          "agent": "robots",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://clearviewtreatment.com/#content",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8667604089",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/borderline-personality-disorder/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg1ODIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg1ODIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewoutpatient.com/",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.jointcommission.org/en-us",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.legitscript.com",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/quick-guide-questions-to-ask-when-seeking-mental-health-and-addiction-treatment-2024/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg1ODkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/lp/womens-mental-health/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/wp-content/uploads/2025/08/Clearview-Outcomes-2024-Residential.pdf",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://goo.gl/maps/J5MEe3evxwb6XLYWA",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.facebook.com/ClearviewTreatmentPrograms/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.youtube.com/c/clearviewtreatment",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.instagram.com/clearviewtreatment/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.linkedin.com/company/clearview-treatment-programs/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "http://legitscript.com/pharmacy/clearviewtreatment.com",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/hipaa-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/accessibility-notice/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        }
+      ],
+      "phones": [
+        {
+          "href": "tel:8667604089"
+        },
+        {
+          "href": "tel:8663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:8663142464"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://clearviewtreatment.com/wp-login.php?wpe-login=true",
+          "method": "post",
+          "fields": [
+            {
+              "tag": "input",
+              "name": "log",
+              "type": "text",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "pwd",
+              "type": "password",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "rememberme",
+              "type": "checkbox",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "wp-submit",
+              "type": "submit",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "redirect_to",
+              "type": "hidden",
+              "required": false,
+              "pattern": null,
+              "label": null
+            }
+          ]
+        }
+      ],
+      "images_count": 13,
+      "images_missing_alt": 0,
+      "jsonld_count": 2,
+      "jsonld_types": [
+        "AdministrativeArea",
+        "BreadcrumbList",
+        "City",
+        "EntryPoint",
+        "GeoCoordinates",
+        "ImageObject",
+        "ListItem",
+        "MedicalClinic",
+        "OpeningHoursSpecification",
+        "Organization",
+        "PostalAddress",
+        "PropertyValueSpecification",
+        "ReadAction",
+        "SearchAction",
+        "WebPage",
+        "WebSite"
+      ],
+      "jsonld_errors": [],
+      "script_srcs": [
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0",
+        "https://clearviewtreatment.com/wp-content/themes/astra-child/js/hc-offcanvas-nav.js",
+        "https://js.hsforms.net/forms/embed/developer/21703484.js",
+        "https://clearviewtreatment.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.14.0",
+        "https://clearviewtreatment.com/wp-content/plugins/awsm-team-pro/js/team.min.js?ver=1.10.2",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/ody-parameter-attacher-main/assets/js/parameter-attacher.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-content/uploads/astra-addon/astra-addon-6a9fcc38532862-75650235.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "https://clearviewtreatment.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+        "//js.hs-scripts.com/21703484.js"
+      ],
+      "text_word_count": 851,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 1
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:35 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:31.778328+00:00",
+      "elapsed_ms": 4075,
+      "bytes": 1084,
+      "sha256": "31035506002c5854c60a7a62cb95218b2474d40650d0673e44c29602071f757a",
+      "redirects": [],
+      "snapshot": "raw/843f7f704b324a31.html",
+      "requested_url": "https://clearviewtreatment.com/about-us/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/alum-program/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:40 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:36.852972+00:00",
+      "elapsed_ms": 4089,
+      "bytes": 1084,
+      "sha256": "a27e90694fabca62bdb9e198376806c0cfaa71ef7ab995fd86198e22214d87dc",
+      "redirects": [],
+      "snapshot": "raw/01fddd6518c822d6.html",
+      "requested_url": "https://clearviewtreatment.com/about-us/alum-program/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/careers/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:44 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:41.941801+00:00",
+      "elapsed_ms": 2836,
+      "bytes": 1084,
+      "sha256": "21bda5c9fc8797bc8496dc0bccd9aa98b4f336660fabee467c905f8803172d83",
+      "redirects": [],
+      "snapshot": "raw/5de50888d9ee77ca.html",
+      "requested_url": "https://clearviewtreatment.com/about-us/careers/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/our-team/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:49 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:45.777471+00:00",
+      "elapsed_ms": 4222,
+      "bytes": 1084,
+      "sha256": "d247be1c104a3463a3351233fd23cadd5211b89b244141e5e70f987d17a9e6b6",
+      "redirects": [],
+      "snapshot": "raw/797edcea8e912337.html",
+      "requested_url": "https://clearviewtreatment.com/about-us/our-team/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/testimonials/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:54 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:50.999583+00:00",
+      "elapsed_ms": 3739,
+      "bytes": 1084,
+      "sha256": "a9891f1d8dda925a415a6f893b7f0c13a09093789392bb03497e05f8c89d2417",
+      "redirects": [],
+      "snapshot": "raw/6b39a5e36ba2b12a.html",
+      "requested_url": "https://clearviewtreatment.com/about-us/testimonials/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/admissions/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:00 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:55.738422+00:00",
+      "elapsed_ms": 4285,
+      "bytes": 1084,
+      "sha256": "306aca4442de2369d0541f7e6d720e04cabdda223c096aa4041b0449a2f96a04",
+      "redirects": [],
+      "snapshot": "raw/e68433d11d43e692.html",
+      "requested_url": "https://clearviewtreatment.com/admissions/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/quick-guide-questions-to-ask-when-seeking-mental-health-and-addiction-treatment-2024/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:09 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:01.023352+00:00",
+      "elapsed_ms": 8706,
+      "bytes": 1084,
+      "sha256": "da899485ef30e8db35ec72e8c220e47570665184b8563f603c8d8484ed239cd2",
+      "redirects": [],
+      "snapshot": "raw/a1f145378eb55863.html",
+      "requested_url": "https://clearviewtreatment.com/quick-guide-questions-to-ask-when-seeking-mental-health-and-addiction-treatment-2024/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:15 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:10.729805+00:00",
+      "elapsed_ms": 5061,
+      "bytes": 1084,
+      "sha256": "b4bb87477e21ae43c42384fa475e5fcaf7a6b4838bf739911451d50600dbe49f",
+      "redirects": [],
+      "snapshot": "raw/06c80b458adee944.html",
+      "requested_url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:19 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:16.791396+00:00",
+      "elapsed_ms": 2861,
+      "bytes": 1084,
+      "sha256": "bd5e0d49a7789a9c83fb21f1d430c26c5d34f48c834672c74f2de7aab6c66fa2",
+      "redirects": [],
+      "snapshot": "raw/de49f4125a9a7fdb.html",
+      "requested_url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:23 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "371602",
+        "last-modified": "Wed, 07 Oct 2026 15:01:05 GMT"
+      },
+      "fetched_at": "2026-10-07T15:01:20.652457+00:00",
+      "elapsed_ms": 3253,
+      "bytes": 371602,
+      "sha256": "c0e1be2fb15a00339b4b8432bc08416d041e7f6fdf99aaf362c501a1862fa8ef",
+      "redirects": [],
+      "snapshot": "raw/1225663e29877191.html",
+      "requested_url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+      "titles": [
+        "Women's Mental Health Treatment | Clearview Treatment Programs"
+      ],
+      "h1": [
+        "Women's Mental Health Treatment in California"
+      ],
+      "canonicals": [
+        "https://clearviewtreatment.com/residential-treatment/womens-center/"
+      ],
+      "meta_robots": [
+        {
+          "agent": "robots",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#content",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8667604089",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#dbt-treatment-center",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#what-we-treat",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#our-facility",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#outcomes",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#why-choose-us",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#testimonials",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg2NzEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg1ODIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://www.va.gov/communitycare/",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/#insurance",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://goo.gl/maps/J5MEe3evxwb6XLYWA",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.facebook.com/ClearviewTreatmentPrograms/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.youtube.com/c/clearviewtreatment",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.instagram.com/clearviewtreatment/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.linkedin.com/company/clearview-treatment-programs/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "http://legitscript.com/pharmacy/clearviewtreatment.com",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/hipaa-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/accessibility-notice/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        }
+      ],
+      "phones": [
+        {
+          "href": "tel:8667604089"
+        },
+        {
+          "href": "tel:8663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:8663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:8663142464"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://clearviewtreatment.com/wp-login.php?wpe-login=true",
+          "method": "post",
+          "fields": [
+            {
+              "tag": "input",
+              "name": "log",
+              "type": "text",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "pwd",
+              "type": "password",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "rememberme",
+              "type": "checkbox",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "wp-submit",
+              "type": "submit",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "redirect_to",
+              "type": "hidden",
+              "required": false,
+              "pattern": null,
+              "label": null
+            }
+          ]
+        }
+      ],
+      "images_count": 43,
+      "images_missing_alt": 0,
+      "jsonld_count": 1,
+      "jsonld_types": [
+        "BreadcrumbList",
+        "EntryPoint",
+        "ImageObject",
+        "ListItem",
+        "Organization",
+        "PropertyValueSpecification",
+        "ReadAction",
+        "SearchAction",
+        "WebPage",
+        "WebSite"
+      ],
+      "jsonld_errors": [],
+      "script_srcs": [
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0",
+        "https://clearviewtreatment.com/wp-content/themes/astra-child/js/hc-offcanvas-nav.js",
+        "https://js.hsforms.net/forms/embed/developer/21703484.js",
+        "https://clearviewtreatment.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.14.0",
+        "https://clearviewtreatment.com/wp-content/plugins/awsm-team-pro/js/team.min.js?ver=1.10.2",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/ody-parameter-attacher-main/assets/js/parameter-attacher.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-content/uploads/astra-addon/astra-addon-6a9fcc38532862-75650235.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5",
+        "https://clearviewtreatment.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "https://clearviewtreatment.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+        "//js.hs-scripts.com/21703484.js"
+      ],
+      "text_word_count": 1340,
+      "main_word_count": 1080,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 1
+    },
+    {
+      "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:28 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:24.905174+00:00",
+      "elapsed_ms": 4095,
+      "bytes": 1084,
+      "sha256": "7f1e38508410ead8789a80a528325be5f25efb68c943ab828319938ebfc28d47",
+      "redirects": [],
+      "snapshot": "raw/8305ae3cfd08597c.html",
+      "requested_url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/treatment-programs/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:32 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "304213",
+        "last-modified": "Wed, 07 Oct 2026 14:52:43 GMT"
+      },
+      "fetched_at": "2026-10-07T15:01:30.000043+00:00",
+      "elapsed_ms": 2839,
+      "bytes": 304213,
+      "sha256": "8cdd909c0a18d7ee4f34796c6035f334c1d7416f541c2a2cbf9f8c0cef84ab8c",
+      "redirects": [],
+      "snapshot": "raw/1e1a4cbc6c8ff740.html",
+      "requested_url": "https://clearviewtreatment.com/treatment-programs/",
+      "titles": [
+        "Residential Mental Health Care | Clearview Treatment Programs"
+      ],
+      "h1": [
+        "Treatment Programs"
+      ],
+      "canonicals": [
+        "https://clearviewtreatment.com/treatment-programs/"
+      ],
+      "meta_robots": [
+        {
+          "agent": "robots",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/#content",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8667604089",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/borderline-personality-disorder/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijk5NTgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijk5NTgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/lp/dual-diagnosis-care/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/lp/womens-mental-health/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/lp/gender-inclusive-mental-health/",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://goo.gl/maps/J5MEe3evxwb6XLYWA",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.facebook.com/ClearviewTreatmentPrograms/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.youtube.com/c/clearviewtreatment",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.instagram.com/clearviewtreatment/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.linkedin.com/company/clearview-treatment-programs/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "http://legitscript.com/pharmacy/clearviewtreatment.com",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/hipaa-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/accessibility-notice/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        }
+      ],
+      "phones": [
+        {
+          "href": "tel:8667604089"
+        },
+        {
+          "href": "tel:8663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:8663142464"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://clearviewtreatment.com/wp-login.php?wpe-login=true",
+          "method": "post",
+          "fields": [
+            {
+              "tag": "input",
+              "name": "log",
+              "type": "text",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "pwd",
+              "type": "password",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "rememberme",
+              "type": "checkbox",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "wp-submit",
+              "type": "submit",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "redirect_to",
+              "type": "hidden",
+              "required": false,
+              "pattern": null,
+              "label": null
+            }
+          ]
+        }
+      ],
+      "images_count": 10,
+      "images_missing_alt": 0,
+      "jsonld_count": 1,
+      "jsonld_types": [
+        "BreadcrumbList",
+        "EntryPoint",
+        "ImageObject",
+        "ListItem",
+        "Organization",
+        "PropertyValueSpecification",
+        "ReadAction",
+        "SearchAction",
+        "WebPage",
+        "WebSite"
+      ],
+      "jsonld_errors": [],
+      "script_srcs": [
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0",
+        "https://clearviewtreatment.com/wp-content/themes/astra-child/js/hc-offcanvas-nav.js",
+        "https://js.hsforms.net/forms/embed/developer/21703484.js",
+        "https://clearviewtreatment.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.14.0",
+        "https://clearviewtreatment.com/wp-content/plugins/awsm-team-pro/js/team.min.js?ver=1.10.2",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/ody-parameter-attacher-main/assets/js/parameter-attacher.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-content/uploads/astra-addon/astra-addon-6a9fcc38532862-75650235.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "https://clearviewtreatment.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+        "//js.hs-scripts.com/21703484.js"
+      ],
+      "text_word_count": 696,
+      "main_word_count": 436,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 1
+    },
+    {
+      "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:42 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:33.839302+00:00",
+      "elapsed_ms": 9122,
+      "bytes": 1084,
+      "sha256": "37094bfd82431d91cde268e27789d3e7c00f122f867a47ff1229109aed621887",
+      "redirects": [],
+      "snapshot": "raw/196e32d587b3a5db.html",
+      "requested_url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/accessibility-notice/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:48 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:43.961602+00:00",
+      "elapsed_ms": 4540,
+      "bytes": 1084,
+      "sha256": "7f3bd5cd58dc8a5c884b021124f9132efd5fdcd94545b6096dd66af512205817",
+      "redirects": [],
+      "snapshot": "raw/78bcda226a1eadf0.html",
+      "requested_url": "https://clearviewtreatment.com/accessibility-notice/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/hipaa-policy/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:54 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:49.501818+00:00",
+      "elapsed_ms": 4872,
+      "bytes": 1084,
+      "sha256": "cce926db0a824ca8d7e59db3ad8a62d4a05618f0eef4f4f509c730360fd70a66",
+      "redirects": [],
+      "snapshot": "raw/de4371439f056813.html",
+      "requested_url": "https://clearviewtreatment.com/hipaa-policy/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/womens-mental-health/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:58 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:55.373565+00:00",
+      "elapsed_ms": 3404,
+      "bytes": 1084,
+      "sha256": "0ed733d690d3ea92e87973f05b5e0c0d7f16a3f16a3fb8bd7d373d10dc1cbb78",
+      "redirects": [],
+      "snapshot": "raw/0a67ca0bc4206f77.html",
+      "requested_url": "https://clearviewtreatment.com/lp/womens-mental-health/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/outcomes/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:03 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:59.777727+00:00",
+      "elapsed_ms": 3734,
+      "bytes": 1084,
+      "sha256": "b57151e2b4b26ce04dd1ae8e532ca76c1c5203bc00096fcedfa332606333be60",
+      "redirects": [],
+      "snapshot": "raw/a7d4b9fec6b88498.html",
+      "requested_url": "https://clearviewtreatment.com/outcomes/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/privacy-policy/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:09 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:04.511472+00:00",
+      "elapsed_ms": 4847,
+      "bytes": 1084,
+      "sha256": "3e7de63b02d039effcaefd5980d31ec251a389864e9e0b80c4c44c4973763130",
+      "redirects": [],
+      "snapshot": "raw/75110c7bfa76c161.html",
+      "requested_url": "https://clearviewtreatment.com/privacy-policy/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:14 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:10.358737+00:00",
+      "elapsed_ms": 4398,
+      "bytes": 1084,
+      "sha256": "eaf8eef89294bca0c4583c6cbe17dcb25c73d2c5f1991f4dd4d2e85aa28262ab",
+      "redirects": [],
+      "snapshot": "raw/809c0d1a61b9de7c.html",
+      "requested_url": "https://clearviewtreatment.com/resources/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/therapies/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:19 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:15.757250+00:00",
+      "elapsed_ms": 3317,
+      "bytes": 1084,
+      "sha256": "a70bf87c912d39a23c07cfff6cd4e6a88a67170b7b776c6e5c2ad80137cae217",
+      "redirects": [],
+      "snapshot": "raw/cbb7c4a6b1e0f513.html",
+      "requested_url": "https://clearviewtreatment.com/therapies/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:24 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "310503",
+        "last-modified": "Wed, 07 Oct 2026 14:54:30 GMT"
+      },
+      "fetched_at": "2026-10-07T15:02:20.074151+00:00",
+      "elapsed_ms": 4327,
+      "bytes": 310503,
+      "sha256": "5669268c0e09f129ad24613838070d4b585fbda47a588b90b5627acde7dbb06c",
+      "redirects": [],
+      "snapshot": "raw/2477b8e002005a89.html",
+      "requested_url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/",
+      "titles": [
+        "Dialectical Behavior Therapy (DBT) | Clearview Treatment Programs"
+      ],
+      "h1": [
+        "Dialectical Behavior Therapy"
+      ],
+      "canonicals": [
+        "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/"
+      ],
+      "meta_robots": [
+        {
+          "agent": "robots",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/#content",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8667604089",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/cognitive-behavioral-therapy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijk3MzQiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://www.linehaninstitute.org",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/self-harm/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/depression/",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "tel:+18663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://goo.gl/maps/J5MEe3evxwb6XLYWA",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.facebook.com/ClearviewTreatmentPrograms/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.youtube.com/c/clearviewtreatment",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.instagram.com/clearviewtreatment/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.linkedin.com/company/clearview-treatment-programs/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "http://legitscript.com/pharmacy/clearviewtreatment.com",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/hipaa-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/accessibility-notice/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        }
+      ],
+      "phones": [
+        {
+          "href": "tel:8667604089"
+        },
+        {
+          "href": "tel:8663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:+18663142464"
+        },
+        {
+          "href": "tel:8663142464"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://clearviewtreatment.com/wp-login.php?wpe-login=true",
+          "method": "post",
+          "fields": [
+            {
+              "tag": "input",
+              "name": "log",
+              "type": "text",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "pwd",
+              "type": "password",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "rememberme",
+              "type": "checkbox",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "wp-submit",
+              "type": "submit",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "redirect_to",
+              "type": "hidden",
+              "required": false,
+              "pattern": null,
+              "label": null
+            }
+          ]
+        }
+      ],
+      "images_count": 11,
+      "images_missing_alt": 0,
+      "jsonld_count": 1,
+      "jsonld_types": [
+        "BreadcrumbList",
+        "EntryPoint",
+        "ImageObject",
+        "ListItem",
+        "Organization",
+        "PropertyValueSpecification",
+        "ReadAction",
+        "SearchAction",
+        "WebPage",
+        "WebSite"
+      ],
+      "jsonld_errors": [],
+      "script_srcs": [
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0",
+        "https://clearviewtreatment.com/wp-content/themes/astra-child/js/hc-offcanvas-nav.js",
+        "https://js.hsforms.net/forms/embed/developer/21703484.js",
+        "https://clearviewtreatment.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.14.0",
+        "https://clearviewtreatment.com/wp-content/plugins/awsm-team-pro/js/team.min.js?ver=1.10.2",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/ody-parameter-attacher-main/assets/js/parameter-attacher.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-content/uploads/astra-addon/astra-addon-6a9fcc38532862-75650235.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "https://clearviewtreatment.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+        "//js.hs-scripts.com/21703484.js"
+      ],
+      "text_word_count": 1017,
+      "main_word_count": 757,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 1
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat-2/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:28 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:25.401245+00:00",
+      "elapsed_ms": 3436,
+      "bytes": 1084,
+      "sha256": "405986670b9b1ed36eb4c3aa55329f606f022cf5636ef50b33bd794790bbe946",
+      "redirects": [],
+      "snapshot": "raw/b55782351bd7ef94.html",
+      "requested_url": "https://clearviewtreatment.com/what-we-treat-2/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:33 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:29.836934+00:00",
+      "elapsed_ms": 3741,
+      "bytes": 1084,
+      "sha256": "f51e4e6a1b4e82dbaf8a88268011da50139701fbd6a09a488557e010a1210222",
+      "redirects": [],
+      "snapshot": "raw/ae713c0c59047d5c.html",
+      "requested_url": "https://clearviewtreatment.com/what-we-treat/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/borderline-personality-disorder/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:38 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:34.578049+00:00",
+      "elapsed_ms": 3658,
+      "bytes": 1084,
+      "sha256": "b9facb19f21dc8ff39497c027bcd34288fed710e5ddba00b51a2bc454441c7bf",
+      "redirects": [],
+      "snapshot": "raw/028699b4fead1a41.html",
+      "requested_url": "https://clearviewtreatment.com/what-we-treat/borderline-personality-disorder/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:44 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:39.235853+00:00",
+      "elapsed_ms": 5585,
+      "bytes": 1084,
+      "sha256": "a1085c0ed8442bba4639458e28280e12415c7f96adb539294b4655d4906ffac0",
+      "redirects": [],
+      "snapshot": "raw/45cde8dc68f738f5.html",
+      "requested_url": "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:51 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:45.820988+00:00",
+      "elapsed_ms": 5360,
+      "bytes": 1084,
+      "sha256": "45f6ab01d5bb60ecdc64a7f20e7f3c02bf647b7c90b24d0edfeb368a2448ef14",
+      "redirects": [],
+      "snapshot": "raw/017776d5fd9abd20.html",
+      "requested_url": "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:57 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "311334",
+        "last-modified": "Wed, 07 Oct 2026 15:00:27 GMT"
+      },
+      "fetched_at": "2026-10-07T15:02:52.181158+00:00",
+      "elapsed_ms": 5451,
+      "bytes": 311334,
+      "sha256": "b3aa05c4c3bf4795f1cb805c0630721414cd2fd9d7376a73184ef899a646379b",
+      "redirects": [],
+      "snapshot": "raw/25fe9e6259c7de90.html",
+      "requested_url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/",
+      "titles": [
+        "Dissociation and Anxiety"
+      ],
+      "h1": [
+        "The Connection Between Dissociation + Anxiety"
+      ],
+      "canonicals": [
+        "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/?utm_source=hs_email&utm_medium=email"
+      ],
+      "meta_robots": [
+        {
+          "agent": "robots",
+          "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/#content",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/alum-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/testimonials/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat-2/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8667604089",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg0NDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/dissociative-disorders/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/anxiety-disorder/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.psychiatry.org/psychiatrists/practice/dsm",
+          "rel": ""
+        },
+        {
+          "url": "https://www.samhsa.gov/trauma-violence",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38357897/",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/wp-content/uploads/2025/06/CV-Overview_Brochure-8.5x11_Web.pdf",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/lp/womens-treatment-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/lp/dual-diagnosis-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewoutpatient.com/treatment/",
+          "rel": ""
+        },
+        {
+          "url": "tel:+13234021622",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://goo.gl/maps/J5MEe3evxwb6XLYWA",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://www.facebook.com/ClearviewTreatmentPrograms/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.youtube.com/c/clearviewtreatment",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.instagram.com/clearviewtreatment/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.linkedin.com/company/clearview-treatment-programs/",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://clearviewtreatment.com/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "http://legitscript.com/pharmacy/clearviewtreatment.com",
+          "rel": "noopener"
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/hipaa-policy/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/accessibility-notice/",
+          "rel": ""
+        },
+        {
+          "url": "tel:8663142464",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/admissions/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/what-we-treat/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/therapies/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/careers/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/about-us/our-team/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/outcomes/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/resources/",
+          "rel": ""
+        },
+        {
+          "url": "https://clearviewtreatment.com/privacy-policy/",
+          "rel": ""
+        }
+      ],
+      "phones": [
+        {
+          "href": "tel:8667604089"
+        },
+        {
+          "href": "tel:8663142464"
+        },
+        {
+          "href": "tel:8663142464"
+        },
+        {
+          "href": "tel:+13234021622"
+        },
+        {
+          "href": "tel:8663142464"
+        }
+      ],
+      "forms": [
+        {
+          "action": "https://clearviewtreatment.com/wp-login.php?wpe-login=true",
+          "method": "post",
+          "fields": [
+            {
+              "tag": "input",
+              "name": "log",
+              "type": "text",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "pwd",
+              "type": "password",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "rememberme",
+              "type": "checkbox",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "wp-submit",
+              "type": "submit",
+              "required": false,
+              "pattern": null,
+              "label": null
+            },
+            {
+              "tag": "input",
+              "name": "redirect_to",
+              "type": "hidden",
+              "required": false,
+              "pattern": null,
+              "label": null
+            }
+          ]
+        }
+      ],
+      "images_count": 9,
+      "images_missing_alt": 0,
+      "jsonld_count": 1,
+      "jsonld_types": [
+        "Article",
+        "BreadcrumbList",
+        "EntryPoint",
+        "ImageObject",
+        "ListItem",
+        "Organization",
+        "Person",
+        "PropertyValueSpecification",
+        "ReadAction",
+        "SearchAction",
+        "WebPage",
+        "WebSite"
+      ],
+      "jsonld_errors": [],
+      "script_srcs": [
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0",
+        "https://clearviewtreatment.com/wp-content/themes/astra-child/js/hc-offcanvas-nav.js",
+        "https://clearviewtreatment.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.14.0",
+        "https://clearviewtreatment.com/wp-content/plugins/awsm-team-pro/js/team.min.js?ver=1.10.2",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.14.5",
+        "https://clearviewtreatment.com/wp-content/plugins/ody-parameter-attacher-main/assets/js/parameter-attacher.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-content/uploads/astra-addon/astra-addon-6a9fcc38532862-75650235.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.13.9",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.3",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js?ver=1.0.0",
+        "https://clearviewtreatment.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255",
+        "https://clearviewtreatment.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.1",
+        "https://clearviewtreatment.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.1",
+        "//js.hs-scripts.com/21703484.js"
+      ],
+      "text_word_count": 1944,
+      "main_word_count": 1684,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 1
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:03 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:58.632592+00:00",
+      "elapsed_ms": 4940,
+      "bytes": 1084,
+      "sha256": "17783c1c51f5252739ff68af85aefdab77625df34ef37a370939610f1bc2f882",
+      "redirects": [],
+      "snapshot": "raw/1abec8e96ac8f03a.html",
+      "requested_url": "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/dual-diagnosis-care/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:08 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:04.572874+00:00",
+      "elapsed_ms": 3612,
+      "bytes": 1084,
+      "sha256": "2180a5c7f34b3641bb78875ef0bb68439a9bc3b28aefb57a02f6cf9fd7bfe48f",
+      "redirects": [],
+      "snapshot": "raw/bc1276622e2dd1ad.html",
+      "requested_url": "https://clearviewtreatment.com/lp/dual-diagnosis-care/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/gender-inclusive-mental-health/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:12 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:09.185127+00:00",
+      "elapsed_ms": 3408,
+      "bytes": 1084,
+      "sha256": "11d8f3c6bc933fe77c83043e17c23075d6238a5dfb637a9418081ee1971ee9d3",
+      "redirects": [],
+      "snapshot": "raw/aab5c96589f19c0a.html",
+      "requested_url": "https://clearviewtreatment.com/lp/gender-inclusive-mental-health/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/therapies/cognitive-behavioral-therapy/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:16 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:13.593292+00:00",
+      "elapsed_ms": 3343,
+      "bytes": 1084,
+      "sha256": "55d0e9887af7524530835d9ba08ae94dc60d4aa6cc70144fdf79a9d757d0def9",
+      "redirects": [],
+      "snapshot": "raw/f2c5ec7e00f36625.html",
+      "requested_url": "https://clearviewtreatment.com/therapies/cognitive-behavioral-therapy/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat-2/depression/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:21 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:17.936266+00:00",
+      "elapsed_ms": 3693,
+      "bytes": 1084,
+      "sha256": "8bb1712e073987520e6067d75d76ce04cd4c79ad7ac97d8f545e31e8ccbbf6e3",
+      "redirects": [],
+      "snapshot": "raw/59150fb71e953549.html",
+      "requested_url": "https://clearviewtreatment.com/what-we-treat-2/depression/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat-2/self-harm/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:27 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:22.629702+00:00",
+      "elapsed_ms": 4693,
+      "bytes": 1084,
+      "sha256": "6270f37cc93256cbc26a9fcd649e0a513fd2b33220ba6e8701e7fd3bee1b80a0",
+      "redirects": [],
+      "snapshot": "raw/79fce885732619cd.html",
+      "requested_url": "https://clearviewtreatment.com/what-we-treat-2/self-harm/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/dual-diagnosis-treatment/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:33 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:28.323148+00:00",
+      "elapsed_ms": 5233,
+      "bytes": 1084,
+      "sha256": "e217c7aa9c954c85212995e073c1b6426cfee0ca41395b0d070b11388f6f50b6",
+      "redirects": [],
+      "snapshot": "raw/a46a854a3ba34738.html",
+      "requested_url": "https://clearviewtreatment.com/lp/dual-diagnosis-treatment/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/womens-treatment-center/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:37 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:34.556375+00:00",
+      "elapsed_ms": 2650,
+      "bytes": 1084,
+      "sha256": "bbea116653bd9fef937d540b7d018425a88554c804cbe75c97bdf76248bf1485",
+      "redirects": [],
+      "snapshot": "raw/225c48a66f54401d.html",
+      "requested_url": "https://clearviewtreatment.com/lp/womens-treatment-center/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/anxiety-disorder/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:41 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:38.206801+00:00",
+      "elapsed_ms": 3460,
+      "bytes": 1084,
+      "sha256": "2b0e7d32a3441a22ca84f8fab419c01cba5c596f625b574e4e31421dbf1fb604",
+      "redirects": [],
+      "snapshot": "raw/f4c6d78e58f3477f.html",
+      "requested_url": "https://clearviewtreatment.com/what-we-treat/anxiety-disorder/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/dissociative-disorders/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:46 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:42.666911+00:00",
+      "elapsed_ms": 3435,
+      "bytes": 1084,
+      "sha256": "7ec2abf1dbe66b46f129d87d1bec8b7e05eb7d7af0e53c972d18efbd0464a2dc",
+      "redirects": [],
+      "snapshot": "raw/192b2ab32fa8fd55.html",
+      "requested_url": "https://clearviewtreatment.com/what-we-treat/dissociative-disorders/",
+      "titles": [
+        "403 Forbidden"
+      ],
+      "h1": [
+        "403 Forbidden"
+      ],
+      "canonicals": [],
+      "meta_robots": [],
+      "links": [],
+      "phones": [],
+      "forms": [],
+      "images_count": 0,
+      "images_missing_alt": 0,
+      "jsonld_count": 0,
+      "jsonld_types": [],
+      "jsonld_errors": [],
+      "script_srcs": [],
+      "text_word_count": 3,
+      "main_word_count": 0,
+      "robots_access": {
+        "Googlebot": true,
+        "OAI-SearchBot": true,
+        "GPTBot": true,
+        "PerplexityBot": true
+      },
+      "description_count": 0
+    }
+  ],
+  "requests": [
+    {
+      "url": "https://clearviewtreatment.com/robots.txt",
+      "kind": "robots",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:21 GMT",
+        "content-type": "text/plain; charset=utf-8",
+        "last-modified": "Wed, 07 Oct 2026 11:42:30 GMT",
+        "x-robots-tag": "noindex, follow"
+      },
+      "fetched_at": "2026-10-07T15:00:17.214996+00:00",
+      "elapsed_ms": 4730,
+      "bytes": 196,
+      "sha256": "757558bd3faa11e22131e169d542d564ed81f6dcf06f1d97b7c156f2fceedbc7",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/sitemap_index.xml",
+      "kind": "sitemap",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:26 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:22.945305+00:00",
+      "elapsed_ms": 3316,
+      "bytes": 1084,
+      "sha256": "28e79a51ccfe77328ae3044856e6744da8280b5dade2e08424e8bc7f8d8b1d3f",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:30 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "325142",
+        "last-modified": "Wed, 07 Oct 2026 14:51:59 GMT"
+      },
+      "fetched_at": "2026-10-07T15:00:27.261592+00:00",
+      "elapsed_ms": 3517,
+      "bytes": 325142,
+      "sha256": "76f1a616a6d0fc7ddc7a38a5e3934202aafe00acfe796d8ffedb9c21acd96161",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:35 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:31.778328+00:00",
+      "elapsed_ms": 4075,
+      "bytes": 1084,
+      "sha256": "31035506002c5854c60a7a62cb95218b2474d40650d0673e44c29602071f757a",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/alum-program/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:40 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:36.852972+00:00",
+      "elapsed_ms": 4089,
+      "bytes": 1084,
+      "sha256": "a27e90694fabca62bdb9e198376806c0cfaa71ef7ab995fd86198e22214d87dc",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/careers/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:44 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:41.941801+00:00",
+      "elapsed_ms": 2836,
+      "bytes": 1084,
+      "sha256": "21bda5c9fc8797bc8496dc0bccd9aa98b4f336660fabee467c905f8803172d83",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/our-team/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:49 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:45.777471+00:00",
+      "elapsed_ms": 4222,
+      "bytes": 1084,
+      "sha256": "d247be1c104a3463a3351233fd23cadd5211b89b244141e5e70f987d17a9e6b6",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/about-us/testimonials/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:00:54 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:50.999583+00:00",
+      "elapsed_ms": 3739,
+      "bytes": 1084,
+      "sha256": "a9891f1d8dda925a415a6f893b7f0c13a09093789392bb03497e05f8c89d2417",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/admissions/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:00 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:00:55.738422+00:00",
+      "elapsed_ms": 4285,
+      "bytes": 1084,
+      "sha256": "306aca4442de2369d0541f7e6d720e04cabdda223c096aa4041b0449a2f96a04",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/quick-guide-questions-to-ask-when-seeking-mental-health-and-addiction-treatment-2024/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:09 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:01.023352+00:00",
+      "elapsed_ms": 8706,
+      "bytes": 1084,
+      "sha256": "da899485ef30e8db35ec72e8c220e47570665184b8563f603c8d8484ed239cd2",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:15 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:10.729805+00:00",
+      "elapsed_ms": 5061,
+      "bytes": 1084,
+      "sha256": "b4bb87477e21ae43c42384fa475e5fcaf7a6b4838bf739911451d50600dbe49f",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:19 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:16.791396+00:00",
+      "elapsed_ms": 2861,
+      "bytes": 1084,
+      "sha256": "bd5e0d49a7789a9c83fb21f1d430c26c5d34f48c834672c74f2de7aab6c66fa2",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/residential-treatment/womens-center/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:23 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "371602",
+        "last-modified": "Wed, 07 Oct 2026 15:01:05 GMT"
+      },
+      "fetched_at": "2026-10-07T15:01:20.652457+00:00",
+      "elapsed_ms": 3253,
+      "bytes": 371602,
+      "sha256": "c0e1be2fb15a00339b4b8432bc08416d041e7f6fdf99aaf362c501a1862fa8ef",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:28 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:24.905174+00:00",
+      "elapsed_ms": 4095,
+      "bytes": 1084,
+      "sha256": "7f1e38508410ead8789a80a528325be5f25efb68c943ab828319938ebfc28d47",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/treatment-programs/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:32 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "304213",
+        "last-modified": "Wed, 07 Oct 2026 14:52:43 GMT"
+      },
+      "fetched_at": "2026-10-07T15:01:30.000043+00:00",
+      "elapsed_ms": 2839,
+      "bytes": 304213,
+      "sha256": "8cdd909c0a18d7ee4f34796c6035f334c1d7416f541c2a2cbf9f8c0cef84ab8c",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:42 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:33.839302+00:00",
+      "elapsed_ms": 9122,
+      "bytes": 1084,
+      "sha256": "37094bfd82431d91cde268e27789d3e7c00f122f867a47ff1229109aed621887",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/accessibility-notice/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:48 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:43.961602+00:00",
+      "elapsed_ms": 4540,
+      "bytes": 1084,
+      "sha256": "7f3bd5cd58dc8a5c884b021124f9132efd5fdcd94545b6096dd66af512205817",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/hipaa-policy/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:54 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:49.501818+00:00",
+      "elapsed_ms": 4872,
+      "bytes": 1084,
+      "sha256": "cce926db0a824ca8d7e59db3ad8a62d4a05618f0eef4f4f509c730360fd70a66",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/womens-mental-health/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:01:58 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:55.373565+00:00",
+      "elapsed_ms": 3404,
+      "bytes": 1084,
+      "sha256": "0ed733d690d3ea92e87973f05b5e0c0d7f16a3f16a3fb8bd7d373d10dc1cbb78",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/outcomes/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:03 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:01:59.777727+00:00",
+      "elapsed_ms": 3734,
+      "bytes": 1084,
+      "sha256": "b57151e2b4b26ce04dd1ae8e532ca76c1c5203bc00096fcedfa332606333be60",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/privacy-policy/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:09 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:04.511472+00:00",
+      "elapsed_ms": 4847,
+      "bytes": 1084,
+      "sha256": "3e7de63b02d039effcaefd5980d31ec251a389864e9e0b80c4c44c4973763130",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:14 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:10.358737+00:00",
+      "elapsed_ms": 4398,
+      "bytes": 1084,
+      "sha256": "eaf8eef89294bca0c4583c6cbe17dcb25c73d2c5f1991f4dd4d2e85aa28262ab",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/therapies/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:19 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:15.757250+00:00",
+      "elapsed_ms": 3317,
+      "bytes": 1084,
+      "sha256": "a70bf87c912d39a23c07cfff6cd4e6a88a67170b7b776c6e5c2ad80137cae217",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/therapies/dialectical-behavior-therapy-dbt/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:24 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "310503",
+        "last-modified": "Wed, 07 Oct 2026 14:54:30 GMT"
+      },
+      "fetched_at": "2026-10-07T15:02:20.074151+00:00",
+      "elapsed_ms": 4327,
+      "bytes": 310503,
+      "sha256": "5669268c0e09f129ad24613838070d4b585fbda47a588b90b5627acde7dbb06c",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat-2/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:28 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:25.401245+00:00",
+      "elapsed_ms": 3436,
+      "bytes": 1084,
+      "sha256": "405986670b9b1ed36eb4c3aa55329f606f022cf5636ef50b33bd794790bbe946",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:33 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:29.836934+00:00",
+      "elapsed_ms": 3741,
+      "bytes": 1084,
+      "sha256": "f51e4e6a1b4e82dbaf8a88268011da50139701fbd6a09a488557e010a1210222",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/borderline-personality-disorder/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:38 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:34.578049+00:00",
+      "elapsed_ms": 3658,
+      "bytes": 1084,
+      "sha256": "b9facb19f21dc8ff39497c027bcd34288fed710e5ddba00b51a2bc454441c7bf",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:44 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:39.235853+00:00",
+      "elapsed_ms": 5585,
+      "bytes": 1084,
+      "sha256": "a1085c0ed8442bba4639458e28280e12415c7f96adb539294b4655d4906ffac0",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:51 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:45.820988+00:00",
+      "elapsed_ms": 5360,
+      "bytes": 1084,
+      "sha256": "45f6ab01d5bb60ecdc64a7f20e7f3c02bf647b7c90b24d0edfeb368a2448ef14",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/",
+      "kind": "page",
+      "status": 200,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:02:57 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "311334",
+        "last-modified": "Wed, 07 Oct 2026 15:00:27 GMT"
+      },
+      "fetched_at": "2026-10-07T15:02:52.181158+00:00",
+      "elapsed_ms": 5451,
+      "bytes": 311334,
+      "sha256": "b3aa05c4c3bf4795f1cb805c0630721414cd2fd9d7376a73184ef899a646379b",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:03 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:02:58.632592+00:00",
+      "elapsed_ms": 4940,
+      "bytes": 1084,
+      "sha256": "17783c1c51f5252739ff68af85aefdab77625df34ef37a370939610f1bc2f882",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/dual-diagnosis-care/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:08 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:04.572874+00:00",
+      "elapsed_ms": 3612,
+      "bytes": 1084,
+      "sha256": "2180a5c7f34b3641bb78875ef0bb68439a9bc3b28aefb57a02f6cf9fd7bfe48f",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/gender-inclusive-mental-health/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:12 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:09.185127+00:00",
+      "elapsed_ms": 3408,
+      "bytes": 1084,
+      "sha256": "11d8f3c6bc933fe77c83043e17c23075d6238a5dfb637a9418081ee1971ee9d3",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/therapies/cognitive-behavioral-therapy/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:16 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:13.593292+00:00",
+      "elapsed_ms": 3343,
+      "bytes": 1084,
+      "sha256": "55d0e9887af7524530835d9ba08ae94dc60d4aa6cc70144fdf79a9d757d0def9",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat-2/depression/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:21 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:17.936266+00:00",
+      "elapsed_ms": 3693,
+      "bytes": 1084,
+      "sha256": "8bb1712e073987520e6067d75d76ce04cd4c79ad7ac97d8f545e31e8ccbbf6e3",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat-2/self-harm/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:27 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:22.629702+00:00",
+      "elapsed_ms": 4693,
+      "bytes": 1084,
+      "sha256": "6270f37cc93256cbc26a9fcd649e0a513fd2b33220ba6e8701e7fd3bee1b80a0",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/dual-diagnosis-treatment/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:33 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:28.323148+00:00",
+      "elapsed_ms": 5233,
+      "bytes": 1084,
+      "sha256": "e217c7aa9c954c85212995e073c1b6426cfee0ca41395b0d070b11388f6f50b6",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/lp/womens-treatment-center/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:37 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:34.556375+00:00",
+      "elapsed_ms": 2650,
+      "bytes": 1084,
+      "sha256": "bbea116653bd9fef937d540b7d018425a88554c804cbe75c97bdf76248bf1485",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/anxiety-disorder/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:41 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:38.206801+00:00",
+      "elapsed_ms": 3460,
+      "bytes": 1084,
+      "sha256": "2b0e7d32a3441a22ca84f8fab419c01cba5c596f625b574e4e31421dbf1fb604",
+      "redirects": []
+    },
+    {
+      "url": "https://clearviewtreatment.com/what-we-treat/dissociative-disorders/",
+      "kind": "page",
+      "status": 403,
+      "headers": {
+        "date": "Wed, 07 Oct 2026 15:03:46 GMT",
+        "content-type": "text/html"
+      },
+      "fetched_at": "2026-10-07T15:03:42.666911+00:00",
+      "elapsed_ms": 3435,
+      "bytes": 1084,
+      "sha256": "7ec2abf1dbe66b46f129d87d1bec8b7e05eb7d7af0e53c972d18efbd0464a2dc",
+      "redirects": []
+    }
+  ],
+  "publication_note": "Technical extract only. Full page text, script bodies, JSON-LD content and HTML snapshots remain in gitignored local runs. The snapshot paths and hashes identify the original responses. Replay re-runs technical rules; a live crawl is required to recheck editorial findings."
+}

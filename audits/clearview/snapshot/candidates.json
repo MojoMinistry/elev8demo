@@ -1,0 +1,310 @@
+[
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/about-us/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/about-us/alum-program/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/about-us/careers/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/about-us/our-team/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/about-us/testimonials/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/admissions/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/lp/dual-diagnosis-treatment/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/lp/womens-treatment-center/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/quick-guide-questions-to-ask-when-seeking-mental-health-and-addiction-treatment-2024/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/residential-treatment/dual-diagnosis/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/residential-treatment/gender-inclusive-mental-health-program/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/resources/blog/clearview-treatment-understanding-outcomes/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/treatment-for-a-clinical-referral/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/treatment-programs/outpatient-treatment/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 3,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/accessibility-notice/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/hipaa-policy/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/lp/dual-diagnosis-care/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/lp/gender-inclusive-mental-health/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/lp/womens-mental-health/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/outcomes/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/privacy-policy/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/resources/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/resources/blog/can-ptsd-be-cured/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/resources/blog/understanding-schizoaffective-disorder/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/therapies/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/therapies/cognitive-behavioral-therapy/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/what-we-treat-2/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/what-we-treat-2/depression/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/what-we-treat-2/self-harm/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/what-we-treat/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/what-we-treat/anxiety-disorder/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/what-we-treat/borderline-personality-disorder/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "http_error",
+    "url": "https://clearviewtreatment.com/what-we-treat/dissociative-disorders/",
+    "evidence": "403",
+    "confidence": "high",
+    "admissions_relevance": 1,
+    "consequence": "A broken landing page can lose inquiries.",
+    "status": "candidate_for_review"
+  },
+  {
+    "code": "nonself_canonical",
+    "url": "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/",
+    "evidence": [
+      "https://clearviewtreatment.com/resources/blog/dissociation-and-anxiety-how-are-they-connected/?utm_source=hs_email&utm_medium=email"
+    ],
+    "confidence": "medium",
+    "admissions_relevance": 1,
+    "consequence": "Check whether a valuable landing page is consolidated elsewhere.",
+    "status": "candidate_for_review"
+  }
+]

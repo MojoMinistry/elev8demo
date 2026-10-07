@@ -68,3 +68,12 @@ python3 scripts/build_memo.py
 ```
 
 The checked-in PDF is ready to read. [Work log and AI disclosure](docs/work-log.md) identify what was actually run and reviewed.
+
+## Additional site run: Clearview
+
+[Five review priorities and run summary](audits/clearview/findings.md) · [Technical inventory](audits/clearview/snapshot/report.md) · [HTML report](audits/clearview/snapshot/report.html). This repeat run includes source/render validation and explicit treatment of crawler HTTP 403 uncertainty.
+
+```bash
+python3 audit.py https://clearviewtreatment.com/ --max-pages 45 --out runs/clearview
+python3 audit.py --replay audits/clearview/snapshot/observations.json --out runs/clearview-replay
+```

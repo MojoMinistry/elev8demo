@@ -167,3 +167,7 @@ The test suite uses controlled fixtures for failure cases. No tests submit a fac
 | GSC | Google Search Console |
 | AI source retrieval | Search finding an answer-bearing passage that an AI workflow could use |
 | AI answer share | How often a facility is actually mentioned/cited across a defined consumer prompt sample; unmeasured here |
+
+## Additional operational evidence: Clearview
+
+The repeat run in [audits/clearview](../audits/clearview/findings.md) exercises the existing architecture on a second origin. Crawler HTTP 403 observations require access validation; a live browser can render pages unavailable to the crawler. JavaScript-loaded callback forms, dynamic phone replacement and animated outcome values demonstrate the raw-HTML boundary and the need for rendered manual review. No architectural or runtime changes were required.

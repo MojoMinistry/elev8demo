@@ -32,3 +32,7 @@ Results: **16 tests passed; 10 evidence checks passed; replay candidate files ma
 ## Deliberate limits
 
 The work establishes public observations, not lost admissions or current clinical/insurance facts. Four of the final five findings require editorial judgment; the automatic scan supplied the callback flag plus a baseline inventory. There is no fabricated consumer-AI response, patient conversion data, applicant screen recording, or claim that the facility lacks credentials. Actual impact needs authorized aggregate GSC/call/CRM evidence.
+
+## Additional Clearview run
+
+Pulled main at bfa9666 and followed README on Clearview. Live bounded crawl, source inspection, rendered desktop review of program/admissions, public retrieval of family FAQ, sanitized technical export and five review priorities are documented in ../audits/clearview/findings.md. Test suite: 16 passed. No changes to crawler code. Original LACATC submission remains the primary assessment.
